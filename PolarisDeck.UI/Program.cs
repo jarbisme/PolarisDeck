@@ -1,7 +1,7 @@
 ﻿using System;
 using Avalonia;
 
-namespace PolarisDeck
+namespace PolarisDeck.UI
 {
     internal sealed class Program
     {

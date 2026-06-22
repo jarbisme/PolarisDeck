@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="PolarisDeck/PolarisDeck.csproj" />
+  <Project Path="PolarisDeck.Core/PolarisDeck.Core.csproj" Id="4917944d-23f8-4813-8226-90da1218df26" />
+  <Project Path="PolarisDeck.Infrastructure/PolarisDeck.Infrastructure.csproj" Id="a0c4daec-04e6-4108-aa90-c9d449747049" />
+  <Project Path="PolarisDeck.UI/PolarisDeck.UI.csproj" />
 </Solution>
